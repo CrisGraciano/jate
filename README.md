@@ -12,7 +12,7 @@ This is a text editor that will run on your browser and will also function offli
 ## Tests
 There are no test in this project but testing was used by running on locally on my machine on my localhost.
 
-## Contributuons
+## Contributions
 Starter code was given for this project, followed modules in bootcamp course.
 
 ## Author
